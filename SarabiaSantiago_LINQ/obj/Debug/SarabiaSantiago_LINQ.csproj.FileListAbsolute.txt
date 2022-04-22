@@ -1,0 +1,8 @@
+C:\Users\SANTIAGO\source\repos\SarabiaSantiago_LINQ\SarabiaSantiago_LINQ\bin\Debug\SarabiaSantiago_LINQ.exe.config
+C:\Users\SANTIAGO\source\repos\SarabiaSantiago_LINQ\SarabiaSantiago_LINQ\bin\Debug\SarabiaSantiago_LINQ.exe
+C:\Users\SANTIAGO\source\repos\SarabiaSantiago_LINQ\SarabiaSantiago_LINQ\bin\Debug\SarabiaSantiago_LINQ.pdb
+C:\Users\SANTIAGO\source\repos\SarabiaSantiago_LINQ\SarabiaSantiago_LINQ\obj\Debug\SarabiaSantiago_LINQ.csproj.AssemblyReference.cache
+C:\Users\SANTIAGO\source\repos\SarabiaSantiago_LINQ\SarabiaSantiago_LINQ\obj\Debug\SarabiaSantiago_LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANTIAGO\source\repos\SarabiaSantiago_LINQ\SarabiaSantiago_LINQ\obj\Debug\SarabiaSantiago_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO\source\repos\SarabiaSantiago_LINQ\SarabiaSantiago_LINQ\obj\Debug\SarabiaSantiago_LINQ.exe
+C:\Users\SANTIAGO\source\repos\SarabiaSantiago_LINQ\SarabiaSantiago_LINQ\obj\Debug\SarabiaSantiago_LINQ.pdb
